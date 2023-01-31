@@ -27,5 +27,5 @@ THEN I find a concise, descriptive title
 This challenge was performed after creating a repository in the Github, by copying files from the class "develop" folder in the activity repository, pasting them in our directory created in the challenge folder, Opening the Challenge in the VS code, refactoring the code and launching the webpage to check the accessibility standards. 
 
 **Usage**
-![horiseon!](C:\Users\Sumreen Faraz\Desktop\bootcamp\challenge-1\assets\images\127.0.0.1_5500_index.html (1).png)
-[link] http://127.0.0.1:5500/index.html
+![horiseon!](https://github.com/fzafar83/Challenge-1/blob/main/assets/images/127.0.0.1_5500_index.html%20(1).png)
+[link](https://fzafar83.github.io/Challenge-1/)
